@@ -1,0 +1,21 @@
+.thumnail {
+    width: 300px;
+    display: inline-block;
+}
+
+.video_tittle {
+    
+    width: 300px;
+}
+
+.video_author, .video_stats {
+    display: inline-block;
+}
+.video_preview {
+    display: inline-block;
+    width: 300px;
+}
+
+.searchbar {
+    display: block;
+}
